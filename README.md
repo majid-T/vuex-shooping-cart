@@ -1,21 +1,18 @@
-# vuex-shooping-cart
+# vuex-shopping-cart
 
 > Sample Vuex project. Follow along with vueschool vuex videos
 
-## Build Setup
+# This repo is under construction
+ <div align="center" >
+      <img
+        src="./tbd.gif"
+        alt="screenShot"
+        width="50%"
+        height="50%"
+      />
+  </div>
 
-``` bash
-# install dependencies
-npm install
+### Technologies and tools used in this project
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+- [Vuex](https://vuex.vuejs.org/guide/) - State management tool for Vue.js
+- [Vue.js](https://vuejs.org/) - Frontend javascript framework
