@@ -1,7 +1,7 @@
 # vuex-shopping-cart
 
 > Sample Vuex project. Follow along with vueschool vuex videos
-This is a test repo,  not production code
+This is a test repo,  not production code or assignment ready
 
 # This repo is under construction
  <div align="center" >
